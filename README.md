@@ -1,0 +1,1 @@
+Designed interactive Tableau dashboards for British Airways Comapany featuring prescriptive analytics, including average ratings by month, aircraft model, country, and continent, enabling clear visualization of trends and performance gap
